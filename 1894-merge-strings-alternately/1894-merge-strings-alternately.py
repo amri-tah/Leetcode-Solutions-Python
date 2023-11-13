@@ -6,12 +6,13 @@ class Solution(object):
         :rtype: str
         """
         out = ""
-        for i in range(max(len(word1), len(word2))):
-            if i<len(word1) and i<len(word2):
-                out+=word1[i]+word2[i]
-            elif i<len(word1):
+        i= 0
+        while i<len(word1) or i<len(word2):
+            if i<len(word1):
                 out+=word1[i]
-            else:
+            if i<len(word2):
                 out+=word2[i]
+            i+=1
+
         return out
         
