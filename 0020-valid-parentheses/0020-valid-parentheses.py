@@ -5,7 +5,7 @@ class Solution:
         for letter in s:
             if letter in temp:
                 stack.append(letter)
-            elif letter in [")", "}", "]"]:
+            elif letter in temp.values():
                 if len(stack)==0:
                     return False
                 elif letter==temp[stack.pop()]:
