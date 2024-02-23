@@ -11,5 +11,4 @@ class Solution:
                     continue
             else:
                 stack.append(operation)
-            print(stack)
         return len(stack)
