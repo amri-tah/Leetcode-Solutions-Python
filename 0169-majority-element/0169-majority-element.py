@@ -5,9 +5,5 @@ class Solution:
         for num in nums:
             if num in freq: freq[num] += 1
             else: freq[num] = 1
-        
-        for num in freq:
-            if freq[num]>max:
-                max = freq[num]
-                value = num
-        return value
+            
+            if freq[num]>len(nums)//2: return num
