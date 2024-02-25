@@ -5,13 +5,13 @@
 #         self.next = next
 class Solution:
     def getDecimalValue(self, head: ListNode) -> int:
+        # Get the no of nodes
         current = head
         n = 0
         while current:
             n+=1
             current = current.next
-        print(n)
-        # n = 3
+
         current = head
         output = 0
         while current:
