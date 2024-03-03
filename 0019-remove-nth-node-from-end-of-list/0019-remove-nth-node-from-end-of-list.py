@@ -16,8 +16,7 @@ class Solution:
         prev = dummy
         
         # Bring prev to length-n-1
-        length -= n
-        for _ in range(length):
+        for _ in range(length-n):
             prev = prev.next
 
         # Delete node
