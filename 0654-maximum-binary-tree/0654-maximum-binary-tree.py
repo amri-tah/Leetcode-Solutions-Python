@@ -10,10 +10,12 @@ class Solution:
         if not nums:
             return None
         
+        # Get max value and its index in the list
         maximum = max(nums)
         index = nums.index(maximum)
-        root = TreeNode(val=maximum)
-        root.left = self.constructMaximumBinaryTree(nums[:index])
-        root.right = self.constructMaximumBinaryTree(nums[index+1:])
-        return root
+        
+        # Return the root node using recursion
+        return TreeNode(val = maximum, 
+                        left = self.constructMaximumBinaryTree(nums[:index]), 
+                        right = self.constructMaximumBinaryTree(nums[index+1:]))
         
