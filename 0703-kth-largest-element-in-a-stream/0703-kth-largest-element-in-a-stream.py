@@ -5,12 +5,12 @@ class KthLargest:
         self.minHeap = nums
         self.k = k
         heapq.heapify(self.minHeap)
+        
         while len(self.minHeap)>self.k:
             heapq.heappop(self.minHeap)
 
     def add(self, val: int) -> int:
         heapq.heappush(self.minHeap, val)
-        heapq.heapify(self.minHeap)
         
         # Only pop if length minheap > k
         if len(self.minHeap)>self.k:
