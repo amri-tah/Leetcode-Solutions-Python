@@ -10,6 +10,5 @@ class Solution:
                     right-=1
                 output+=temp
                 return output
-            right+=1
         return word
             
