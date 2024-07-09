@@ -7,10 +7,6 @@ class Solution:
         for i in range(m):
             for j in range(i, m):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-                
+
         for i in range(m):
-            j, k = 0, n-1
-            while j<=k:
-                matrix[i][j], matrix[i][k] = matrix[i][k], matrix[i][j]
-                j+=1
-                k-=1
+            matrix[i].reverse()
