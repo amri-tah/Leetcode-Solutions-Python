@@ -20,6 +20,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -35,6 +36,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
