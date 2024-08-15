@@ -53,6 +53,7 @@
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 ## Memoization
@@ -122,4 +124,12 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
