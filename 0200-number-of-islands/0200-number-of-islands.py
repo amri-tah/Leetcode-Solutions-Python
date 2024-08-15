@@ -16,10 +16,19 @@ class Solution:
                         if grid[nx][ny]=="1" and grid[nx][ny]!="2":
                             queue.append((nx, ny))
                             grid[nx][ny]="2"
+
+        def dfs(r,c):
+            if r<0 or r>=m or c<0 or c>=n: return
+            if grid[r][c]!="1":return
+            else: grid[r][c]="2"
+            dfs(r,c+1)
+            dfs(r, c-1)
+            dfs(r+1, c)
+            dfs(r-1, c)
         
         for row in range(m):
             for col in range(n):
                 if grid[row][col]=="1":
-                    bfs(row, col)
+                    dfs(row, col)
                     count+=1
         return count
