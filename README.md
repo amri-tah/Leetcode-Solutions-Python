@@ -64,6 +64,7 @@
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [1127-last-stone-weight](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
+| [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | ------- |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
+| [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
