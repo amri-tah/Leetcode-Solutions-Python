@@ -24,6 +24,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0547-number-of-provinces) |
@@ -45,6 +46,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0547-number-of-provinces) |
@@ -121,6 +123,7 @@
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0744-network-delay-time) |
@@ -176,6 +179,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
