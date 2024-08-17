@@ -11,6 +11,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
@@ -59,6 +60,7 @@
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
