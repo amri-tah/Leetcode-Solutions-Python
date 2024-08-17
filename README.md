@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -65,6 +66,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
+| [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
