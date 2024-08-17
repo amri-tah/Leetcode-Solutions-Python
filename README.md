@@ -36,6 +36,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -68,6 +69,7 @@
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
@@ -119,6 +122,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
 ## Graph
 |  |
@@ -170,6 +174,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
@@ -180,6 +185,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
+| [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
