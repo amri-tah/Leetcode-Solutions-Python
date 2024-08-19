@@ -38,6 +38,7 @@
 | [0744-network-delay-time](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0801-is-graph-bipartite) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -45,6 +46,7 @@
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0801-is-graph-bipartite](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
@@ -94,6 +97,7 @@
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
@@ -134,6 +138,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 ## Memoization
 |  |
 | ------- |
@@ -176,6 +181,7 @@
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -202,6 +208,7 @@
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0744-network-delay-time) |
 | [1127-last-stone-weight](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
