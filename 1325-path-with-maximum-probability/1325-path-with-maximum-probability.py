@@ -9,6 +9,7 @@ class Solution:
         visited = set()
         probability = [0]*n
         max_heap = []
+        heapq.heapify(max_heap)
         for neigh, prob in graph[start_node]:
             heapq.heappush(max_heap, (-prob, neigh))
         visited.add(start_node)
