@@ -47,6 +47,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -93,6 +94,7 @@
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -117,6 +119,7 @@
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
