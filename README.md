@@ -110,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
