@@ -14,7 +14,6 @@ class Solution:
         count = 0
         for r in range(m):
             for c in range(n):
-                if grid2[r][c]==1: 
-                    if dfs(r,c): count+=1
+                if grid2[r][c]==1 and dfs(r,c): count+=1
                     
         return count
