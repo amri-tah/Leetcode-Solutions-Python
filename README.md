@@ -216,6 +216,7 @@
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Combinatorics
