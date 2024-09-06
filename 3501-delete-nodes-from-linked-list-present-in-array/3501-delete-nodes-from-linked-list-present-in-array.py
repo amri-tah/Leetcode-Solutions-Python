@@ -10,9 +10,7 @@ class Solution:
         nums = set(nums)
         # move curr while curr.val in nums
         while curr:
-            while curr and curr.val in nums:
-                curr = curr.next
-            prev.next = curr
-            prev = curr
-            if curr: curr = curr.next
+            if curr.val in nums: prev.next = curr.next
+            else: prev = curr
+            curr = curr.next
         return dummy.next
