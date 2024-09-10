@@ -6,15 +6,11 @@
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         def gcd(a, b):
-            result = min(a, b)
-            while result:
-                if a % result == 0 and b % result == 0: break
-                result -= 1
-            return result
-        
+            if b == 0: return a
+            return gcd(b, a%b)
+
         prev = head
         curr = prev.next
-
         while curr:
             newNode = ListNode(val=gcd(prev.val, curr.val), next=curr)
             prev.next = newNode
