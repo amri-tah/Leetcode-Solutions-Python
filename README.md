@@ -327,4 +327,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
