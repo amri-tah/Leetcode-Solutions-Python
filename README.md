@@ -86,6 +86,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
@@ -277,6 +278,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
