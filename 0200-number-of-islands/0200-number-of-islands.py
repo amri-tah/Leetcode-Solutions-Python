@@ -1,34 +1,22 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        count, m, n = 0, len(grid), len(grid[0])
-        
-        def bfs(r, c):
-            directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
-            queue = deque()
-            queue.append((r, c))
-            grid[r][c] = "2"
-            
-            while queue:
-                row, col = queue.popleft()
-                for x, y in directions:
-                    nx, ny = row+x, col+y
-                    if 0<=nx<m and 0<=ny<n:
-                        if grid[nx][ny]=="1" and grid[nx][ny]!="2":
-                            queue.append((nx, ny))
-                            grid[nx][ny]="2"
+        m, n, count = len(grid), len(grid[0]), 0
 
-        def dfs(r,c):
-            if r<0 or r>=m or c<0 or c>=n: return
-            if grid[r][c]!="1":return
-            else: grid[r][c]="2"
-            dfs(r,c+1)
-            dfs(r, c-1)
-            dfs(r+1, c)
-            dfs(r-1, c)
-        
-        for row in range(m):
-            for col in range(n):
-                if grid[row][col]=="1":
-                    dfs(row, col)
+        def bfs(r, c):
+            queue = deque([(r,c)])
+            directions = [(0,1), (1,0), (-1,0), (0,-1)]
+            while queue:
+                r, c = queue.popleft()
+                grid[r][c]="2"
+                for x, y in directions:
+                    nx, ny = r+x, c+y
+                    if 0<=nx<m and 0<=ny<n and grid[nx][ny]=="1":
+                        queue.append((nx, ny))
+                
+
+        for r in range(m):
+            for c in range(n):
+                if grid[r][c]=="1":
                     count+=1
+                    bfs(r,c)
         return count
