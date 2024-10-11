@@ -14,10 +14,20 @@ class Solution:
                         queue.append((nx, ny))
                         grid[nx][ny]="2"
 
+        def dfs(r, c):
+            if r>=m or r<0 or c>=n or c<0: return
+            if grid[r][c]!="1": return
+            grid[r][c]="2"
+
+            dfs(r, c+1)
+            dfs(r+1, c)
+            dfs(r-1, c)
+            dfs(r, c-1)
 
         for r in range(m):
             for c in range(n):
                 if grid[r][c]=="1":
                     count+=1
-                    bfs(r,c)
+                    # bfs(r,c)
+                    dfs(r,c)
         return count
