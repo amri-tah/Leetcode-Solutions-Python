@@ -3,11 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        freq = defaultdict(int)
-        for num in nums:
-            freq[num]+=1
-        for i in range(len(nums)):
-            if i<freq[0]: nums[i]=0
-            elif i>=freq[0] and i<freq[0]+freq[1]: nums[i]=1
-            else: nums[i]=2
+        left, right, i = 0, len(nums)-1, 0
+        def swap(i, j):
+            temp = nums[i]
+            nums[i] = nums[j]
+            nums[j] = temp
+
+        while i<=right:
+            if nums[i]==0:
+                swap(left, i)
+                left+=1
+                i+=1
+
+            elif nums[i]==2:
+                swap(right, i)
+                right-=1
                 
+            else:
+                i+=1
