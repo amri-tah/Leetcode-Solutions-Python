@@ -98,6 +98,7 @@
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
