@@ -101,6 +101,7 @@
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
