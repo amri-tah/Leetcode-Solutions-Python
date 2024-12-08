@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
@@ -110,6 +111,7 @@
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
@@ -288,6 +290,7 @@
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
@@ -309,6 +312,7 @@
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
@@ -332,6 +336,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
