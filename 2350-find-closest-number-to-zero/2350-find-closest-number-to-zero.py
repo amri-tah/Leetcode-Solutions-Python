@@ -1,7 +1,8 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        minDist, value = float('inf'), None
+        minDist = nums[0]
         for num in nums:
-            if abs(num)<minDist or (abs(num)==minDist and num>value):
-                minDist, value = abs(num), num
-        return value
+            if abs(num)<=abs(minDist): minDist = num
+
+        if minDist<0 and abs(minDist) in nums: return abs(minDist)
+        else: return minDist
