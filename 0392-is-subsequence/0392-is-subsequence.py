@@ -2,8 +2,11 @@ class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         if len(s)>len(t): return False
         if not s: return True
-        p = 0
-        for letter in t:
-            if p==len(s): return True
-            if letter==s[p]: p+=1
-        return p==len(s)
+        p1 = p2 = 0
+        while p1<len(s) and p2<len(t):
+            if s[p1]==t[p2]:
+                p1+=1
+                p2+=1
+            else:
+                p2+=1
+        return p1==len(s)
