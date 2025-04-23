@@ -156,6 +156,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
@@ -166,6 +167,7 @@
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
@@ -257,6 +259,7 @@
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
