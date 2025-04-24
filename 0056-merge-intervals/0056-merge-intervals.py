@@ -1,8 +1,8 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals = sorted(intervals, key=lambda item: item[0])
-        result = [intervals[0]]
-        for i in range(1, len(intervals)):
-            if result[-1][1]>=intervals[i][0]: result[-1][1] = max(result[-1][1], intervals[i][1])
-            else: result.append(intervals[i])
-        return result
+        newInt = []
+        intervals.sort(key=lambda x: x[0])
+        for interval in intervals:
+            if not newInt or newInt[-1][1]<interval[0]: newInt.append(interval)
+            else: newInt[-1][1] = max(newInt[-1][1], interval[1])
+        return newInt
