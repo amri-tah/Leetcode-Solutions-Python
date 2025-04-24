@@ -1,13 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        buy = 0
-        sell = buy + 1
-        maxprofit = 0
-        
-        while sell<len(prices):
-            if prices[buy]>=prices[sell]:
-                buy = sell
-            else:
-                maxprofit = max(maxprofit, prices[sell]-prices[buy])
-            sell+=1
-        return maxprofit
+        maxProf, minPrice = 0 , float('inf')
+        for price in prices:
+            minPrice = min(minPrice, price)
+            maxProf = max(maxProf, price-minPrice)
+        return maxProf
