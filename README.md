@@ -115,6 +115,7 @@
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0228-summary-ranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0322-coin-change) |
