@@ -256,6 +256,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
@@ -334,6 +335,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
