@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
