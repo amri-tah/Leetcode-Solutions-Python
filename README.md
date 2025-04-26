@@ -110,6 +110,7 @@
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0152-maximum-product-subarray) |
@@ -247,6 +248,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0684-redundant-connection) |
@@ -328,6 +330,7 @@
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
