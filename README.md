@@ -123,6 +123,7 @@
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -394,6 +395,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
@@ -440,4 +442,8 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
