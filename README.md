@@ -294,6 +294,7 @@
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -410,6 +411,7 @@
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
