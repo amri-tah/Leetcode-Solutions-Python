@@ -4,14 +4,14 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         m, n = len(matrix), len(matrix[0])
-        rows = set()
-        cols = set()
+        updated = [0]*n
+        affected = set()
         for row in range(m):
             for col in range(n):
-                if matrix[row][col]==0: 
-                    rows.add(row)
-                    cols.add(col)
-        for row in range(m):
-            for col in range(n):
-                if row in rows or col in cols: matrix[row][col]=0
+                if matrix[row][col]==0: affected.add((row, col))
+        for row, col in affected:
+            matrix[row]=updated
+            for i in range(m):
+                matrix[i][col]=0
+
         
