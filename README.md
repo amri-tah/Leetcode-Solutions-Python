@@ -131,6 +131,7 @@
 | [0485-max-consecutive-ones](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
@@ -358,6 +359,7 @@
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
