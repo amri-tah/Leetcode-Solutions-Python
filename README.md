@@ -105,6 +105,7 @@
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -350,6 +352,7 @@
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
