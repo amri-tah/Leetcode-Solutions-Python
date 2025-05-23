@@ -146,6 +146,7 @@
 | [1127-last-stone-weight](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1325-path-with-maximum-probability) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
@@ -213,6 +214,7 @@
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
@@ -371,6 +373,7 @@
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -420,6 +423,7 @@
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -466,6 +470,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
