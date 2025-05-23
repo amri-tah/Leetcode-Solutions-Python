@@ -139,6 +139,7 @@
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
+| [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
@@ -368,6 +369,7 @@
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
+| [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -416,6 +418,7 @@
 | [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -462,6 +465,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
