@@ -246,6 +246,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -300,6 +301,7 @@
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
@@ -468,6 +470,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
