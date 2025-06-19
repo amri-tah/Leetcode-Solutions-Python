@@ -137,6 +137,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
@@ -412,6 +413,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
@@ -477,6 +479,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
