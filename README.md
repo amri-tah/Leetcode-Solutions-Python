@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
@@ -75,6 +78,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
