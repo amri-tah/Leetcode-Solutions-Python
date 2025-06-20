@@ -209,6 +209,7 @@
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -451,6 +452,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -480,6 +482,7 @@
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
