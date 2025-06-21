@@ -172,6 +172,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -245,6 +246,7 @@
 | [2035-count-sub-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
@@ -431,6 +434,7 @@
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Combinatorics
 |  |
