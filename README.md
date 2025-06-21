@@ -25,6 +25,7 @@
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
@@ -46,6 +47,7 @@
 | [0744-network-delay-time](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
@@ -71,6 +73,7 @@
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
@@ -92,6 +95,7 @@
 | [0801-is-graph-bipartite](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
