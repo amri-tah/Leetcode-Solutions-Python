@@ -1,18 +1,29 @@
+class Trie():
+    def __init__(self):
+        self.children = {}
+        self.products = []
+    def insert(self, product):
+        root = self
+        for char in product:
+            if char not in root.children: root.children[char] = Trie()
+            root = root.children[char]  
+            if len(root.products)<3: root.products.append(product)
+
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
-        products.sort()
+        root = Trie()
         output = []
-        left, right = 0, len(products) - 1
-        
-        for i, c in enumerate(searchWord):
-            while left <= right and (len(products[left]) <= i or products[left][i] != c):
-                left += 1
-            while left <= right and (len(products[right]) <= i or products[right][i] != c):
-                right -= 1
-            
-            result = []
-            for j in range(min(3, right - left + 1)):
-                result.append(products[left + j])
-            output.append(result)
-        
+        products.sort()
+        for product in products:
+            root.insert(product)
+        output = []
+        node = root
+        for char in searchWord:
+            if node and char in node.children:
+                node = node.children[char]
+                output.append(node.products)
+            else:
+                node = None
+                output.append([])
+
         return output
