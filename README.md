@@ -25,6 +25,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -42,6 +43,7 @@
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
