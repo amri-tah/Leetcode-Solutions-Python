@@ -30,6 +30,7 @@
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
@@ -56,6 +57,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
@@ -85,6 +87,7 @@
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
@@ -217,6 +220,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
