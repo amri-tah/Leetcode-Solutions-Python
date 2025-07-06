@@ -372,6 +372,7 @@
 | [1325-path-with-maximum-probability](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
+| [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 ## Shortest Path
 |  |
 | ------- |
@@ -430,6 +431,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -548,6 +550,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -557,4 +560,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
