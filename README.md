@@ -16,6 +16,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
@@ -333,6 +334,7 @@
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
@@ -539,6 +541,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
