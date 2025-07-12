@@ -27,6 +27,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
@@ -72,6 +73,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
@@ -86,6 +88,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
