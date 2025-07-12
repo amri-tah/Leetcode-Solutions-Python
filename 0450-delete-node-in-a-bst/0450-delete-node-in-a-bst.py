@@ -5,6 +5,10 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def helper(self, head):
+        while(head.left):
+            head = head.left
+        return head
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root: return
         if root.val>key: root.left = self.deleteNode(root.left, key)
@@ -23,10 +27,3 @@ class Solution:
                 # Delete the inorder successor
                 root.right = self.deleteNode(root.right, min_larger_node.val)
         return root
-    
-    def helper(self, head):
-            while(head.left):
-                head = head.left
-            return head
-
-        
