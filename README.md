@@ -262,6 +262,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -514,6 +515,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0725-split-linked-list-in-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
