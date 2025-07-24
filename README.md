@@ -157,6 +157,7 @@
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0283-move-zeroes) |
@@ -443,6 +444,7 @@
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
@@ -572,6 +574,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
