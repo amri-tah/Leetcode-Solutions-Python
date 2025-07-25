@@ -143,6 +143,7 @@
 | [0057-insert-interval](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
@@ -309,6 +310,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
@@ -387,6 +389,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
