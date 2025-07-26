@@ -32,6 +32,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
@@ -53,6 +54,7 @@
 | [0399-evaluate-division](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0684-redundant-connection) |
@@ -93,6 +95,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
