@@ -569,6 +569,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
@@ -596,6 +597,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
