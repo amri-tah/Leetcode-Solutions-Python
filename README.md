@@ -220,6 +220,7 @@
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
 ## Trie
 |  |
 | ------- |
@@ -566,6 +569,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
+| [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
 ## Stack
 |  |
 | ------- |
