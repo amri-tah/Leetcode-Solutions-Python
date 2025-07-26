@@ -153,6 +153,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
@@ -270,6 +271,7 @@
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
@@ -573,6 +575,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
