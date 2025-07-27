@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0450-delete-node-in-a-bst) |
+| [0907-koko-eating-bananas](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
@@ -187,6 +188,7 @@
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
