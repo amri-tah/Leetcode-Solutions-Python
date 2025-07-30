@@ -219,6 +219,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -328,6 +329,7 @@
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Graph
 |  |
 | ------- |
@@ -631,4 +633,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
