@@ -253,6 +253,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -392,6 +393,7 @@
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
+| [1250-longest-common-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
