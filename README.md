@@ -236,6 +236,7 @@
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -377,6 +378,7 @@
 | [0014-longest-common-prefix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0168-excel-sheet-column-title) |
