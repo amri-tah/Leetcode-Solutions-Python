@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
@@ -378,6 +379,7 @@
 | [0013-roman-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
@@ -406,6 +408,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
