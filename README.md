@@ -23,6 +23,7 @@
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
+| [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
@@ -222,6 +223,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
+| [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -456,6 +458,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
+| [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 ## Quickselect
 |  |
 | ------- |
@@ -497,6 +500,7 @@
 | [1813-maximum-erasure-value](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1813-maximum-erasure-value) |
 | [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
+| [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
