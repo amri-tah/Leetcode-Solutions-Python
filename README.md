@@ -191,6 +191,7 @@
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -490,6 +491,7 @@
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1319-unique-number-of-occurrences) |
@@ -616,6 +618,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
