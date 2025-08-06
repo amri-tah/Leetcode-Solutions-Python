@@ -90,6 +90,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3791-fruits-into-baskets-iii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
@@ -658,6 +660,7 @@
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -666,4 +669,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
