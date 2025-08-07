@@ -390,6 +390,7 @@
 | [0022-generate-parentheses](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
@@ -609,6 +610,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
