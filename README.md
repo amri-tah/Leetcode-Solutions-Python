@@ -293,6 +293,7 @@
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -337,6 +339,7 @@
 | ------- |
 | [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
