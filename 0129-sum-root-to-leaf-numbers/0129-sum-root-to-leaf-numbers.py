@@ -6,18 +6,13 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        if not root: return 0
-        sum = 0 
-        stack = [(root, str(root.val))]
-        
-        while stack:
-            node, value = stack.pop()
-            if node.left is None and node.right is None:
-                sum += int(value)
-                
-            if node.left:
-                stack.append((node.left, value+str(node.left.val)))
-            if node.right:
-                stack.append((node.right, value+str(node.right.val)))
-        return sum
-    
+        self.pathsum = 0
+        def backtrack(root, path):
+            if not root: return
+            path.append(str(root.val))
+            if not root.left and not root.right: self.pathsum+=int("".join(path))
+            if root.left: backtrack(root.left, path)
+            if root.right: backtrack(root.right, path)
+            path.pop()
+        backtrack(root, [])
+        return self.pathsum
