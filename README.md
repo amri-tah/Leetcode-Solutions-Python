@@ -300,6 +300,7 @@
 | [0168-excel-sheet-column-title](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
