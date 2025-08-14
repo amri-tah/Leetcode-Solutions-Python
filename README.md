@@ -501,6 +501,7 @@
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
@@ -595,6 +596,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1484-linked-list-in-binary-tree) |
@@ -658,6 +660,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
@@ -689,4 +692,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3791-fruits-into-baskets-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
