@@ -428,6 +428,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3533-snake-in-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
