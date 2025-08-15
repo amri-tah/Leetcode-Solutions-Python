@@ -301,6 +301,7 @@
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
@@ -339,6 +340,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -349,6 +351,7 @@
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
