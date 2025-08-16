@@ -22,6 +22,7 @@
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -308,6 +309,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
