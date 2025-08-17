@@ -12,13 +12,12 @@ class Solution:
         # return self.result
 
         if k==0 or n>=k-1+maxPts: return 1
-        dp = [0]*maxPts
+        dp = [0]*(n+1)
         dp[0]=1
         currsum, res = 1, 0
         for i in range(1, n+1):
-            prob = currsum/maxPts
-            if i < k: currsum += prob   # still playing → add prob to window
-            else: res += prob       # stopped → add prob to final result
-            if i >= maxPts: currsum -= dp[i % maxPts]
-            dp[i % maxPts] = prob
+            dp[i] = currsum/maxPts
+            if i < k: currsum += dp[i]   # still playing → add prob to window
+            else: res += dp[i]       # stopped → add prob to final result
+            if i-maxPts >= 0: currsum -= dp[i - maxPts]
         return res
