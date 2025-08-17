@@ -267,6 +267,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1250-longest-common-subsequence) |
@@ -304,6 +305,7 @@
 | [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
+| [0867-new-21-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1236-n-th-tribonacci-number) |
@@ -656,6 +658,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1046-max-consecutive-ones-iii) |
@@ -704,4 +707,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
