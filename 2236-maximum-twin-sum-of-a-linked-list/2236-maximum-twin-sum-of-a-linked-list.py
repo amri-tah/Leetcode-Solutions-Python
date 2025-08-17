@@ -5,19 +5,25 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        maxtwinsum = 0
-        slow, fast = head, head
+        # Find middle
+        fast, middle = head, head
         while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
+            fast=fast.next.next
+            middle=middle.next
+        
+        # Reverse 2nd half
         prev = None
-        while slow:
-            temp = slow.next
-            slow.next = prev
-            prev = slow
-            slow = temp
+        while middle:
+            temp = middle.next
+            middle.next = prev
+            prev = middle
+            middle = temp
+        
+        # Move pointers from front and back
+        front = head
+        maxsum = 0
         while prev:
-            maxtwinsum = max(maxtwinsum, head.val+prev.val)
-            head = head.next
-            prev = prev.next
-        return maxtwinsum
+            maxsum = max(maxsum, prev.val+front.val)
+            front=front.next
+            prev=prev.next
+        return maxsum
