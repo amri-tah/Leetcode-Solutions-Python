@@ -157,6 +157,7 @@
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0057-insert-interval) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0200-number-of-islands) |
@@ -595,6 +597,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
