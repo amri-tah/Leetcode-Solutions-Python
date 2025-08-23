@@ -1,21 +1,14 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        if len(s)!= len(t): return False
-        
-        shash, thash, stable = {}, {}, []
-        i = 0
-        for s_char in s:
-            if s_char in shash: stable.append(shash[s_char])
-            else:
-                shash[s_char] = i
-                stable.append(i)
-                i+=1
+        if len(s) != len(t):
+            return False
 
-        i = 0
-        for j, t_char in enumerate(t):
-            if t_char not in thash:
-                thash[t_char] = i
-                i+=1
-            if thash[t_char]!=stable[j]: return False
-        
+        map_st, map_ts = {}, {}
+        for s_char, t_char in zip(s, t):
+            if (s_char in map_st and map_st[s_char] != t_char) or \
+               (t_char in map_ts and map_ts[t_char] != s_char):
+                return False
+            map_st[s_char] = t_char
+            map_ts[t_char] = s_char
+
         return True
