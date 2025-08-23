@@ -302,6 +302,7 @@
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
@@ -321,6 +322,7 @@
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
@@ -543,6 +545,7 @@
 | [0139-word-break](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0219-contains-duplicate-ii) |
