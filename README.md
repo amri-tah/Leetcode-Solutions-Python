@@ -328,6 +328,7 @@
 | [0013-roman-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0168-excel-sheet-column-title) |
@@ -388,6 +389,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0231-power-of-two) |
@@ -450,6 +452,7 @@
 | [0038-count-and-say](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
@@ -614,6 +617,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
