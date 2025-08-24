@@ -300,6 +300,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0202-happy-number) |
@@ -643,6 +644,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0725-split-linked-list-in-parts) |
