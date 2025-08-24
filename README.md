@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -121,6 +123,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0133-clone-graph) |
