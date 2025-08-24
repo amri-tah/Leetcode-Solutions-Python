@@ -11,16 +11,15 @@ class Solution:
         while temp:
             length+=1
             temp = temp.next
-        
-        k %= length
-        prev = curr = head
-        
-        for _ in range(k):
-            curr = curr.next
-        while curr.next:
-            prev = prev.next
-            curr = curr.next
-        curr.next = head
-        head = prev.next
-        prev.next = None
-        return head
+        k%=length
+        if k==0: return head
+        last = head
+        for _ in range(length-k-1):
+            last = last.next
+        start, dummy = last.next, last
+        while dummy.next:
+            dummy=dummy.next
+        last.next = None
+        dummy.next = head
+        return start
+
