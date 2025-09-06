@@ -681,6 +681,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0175-combine-two-tables) |
+| [1908-recyclable-and-low-fat-products](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1908-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
 | ------- |
