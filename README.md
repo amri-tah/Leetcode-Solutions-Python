@@ -25,6 +25,7 @@
 | [0890-lemonade-change](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
@@ -246,6 +247,7 @@
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -314,6 +316,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Two Pointers
@@ -496,6 +499,7 @@
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1894-merge-strings-alternately) |
