@@ -50,6 +50,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
 | ------- |
