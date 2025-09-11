@@ -27,6 +27,7 @@
 | [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
+| [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
@@ -305,6 +306,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3886-count-number-of-trapezoids-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3886-count-number-of-trapezoids-i) |
@@ -769,6 +772,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
 ## Segment Tree
 |  |
 | ------- |
