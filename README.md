@@ -157,6 +157,7 @@
 | [2035-count-sub-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Array
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -313,6 +315,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -383,6 +386,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Memoization
 |  |
