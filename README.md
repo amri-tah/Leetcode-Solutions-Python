@@ -370,6 +370,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2850-construct-the-longest-new-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2850-construct-the-longest-new-string) |
