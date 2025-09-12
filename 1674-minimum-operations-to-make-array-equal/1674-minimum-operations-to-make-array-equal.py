@@ -2,7 +2,7 @@ class Solution:
     def minOperations(self, n: int) -> int:
         # req value => sum/n
         # -=1 in the right side and +=1 in the left
-        req = sum([(2*i)+1 for i in range(n)])//n
+        req = n
         ops = 0
         left, right = 1, 2*(n-1)+1
         while left<=right and left!=req and right!=req:
