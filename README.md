@@ -500,6 +500,7 @@
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -611,6 +612,7 @@
 | [0940-fruit-into-baskets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
