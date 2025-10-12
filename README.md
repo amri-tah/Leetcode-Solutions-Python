@@ -335,6 +335,7 @@
 | [0086-partition-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0647-palindromic-substrings) |
@@ -536,6 +537,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0744-network-delay-time) |
@@ -564,6 +566,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
@@ -787,6 +790,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
@@ -802,6 +806,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
 ## Ordered Set
