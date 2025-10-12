@@ -360,6 +360,7 @@
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [0867-new-21-game](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0867-new-21-game) |
@@ -423,6 +424,7 @@
 | [0268-missing-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0371-sum-of-two-integers) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
