@@ -255,6 +255,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -673,6 +674,7 @@
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -768,6 +770,7 @@
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1666-make-the-string-great) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -813,6 +816,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
