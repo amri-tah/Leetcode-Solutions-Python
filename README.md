@@ -513,6 +513,7 @@
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1666-make-the-string-great](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -763,6 +764,7 @@
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
+| [1666-make-the-string-great](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1666-make-the-string-great) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
