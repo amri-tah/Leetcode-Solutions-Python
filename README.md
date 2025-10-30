@@ -28,6 +28,7 @@
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2689-rearranging-fruits) |
@@ -105,6 +106,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1285-balance-a-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -262,6 +264,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
@@ -583,6 +586,7 @@
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2636-maximum-subsequence-score) |
@@ -709,6 +713,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
@@ -795,6 +800,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1813-maximum-erasure-value) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
