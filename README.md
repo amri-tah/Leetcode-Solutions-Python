@@ -255,6 +255,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1580-shuffle-the-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1700-minimum-time-to-make-rope-colorful) |
