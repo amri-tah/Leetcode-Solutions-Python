@@ -268,6 +268,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -686,6 +687,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
