@@ -261,6 +261,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -796,6 +797,7 @@
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -806,6 +808,7 @@
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
