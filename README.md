@@ -229,6 +229,7 @@
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -790,6 +791,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
