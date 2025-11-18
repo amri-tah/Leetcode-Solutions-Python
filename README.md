@@ -228,6 +228,7 @@
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -439,6 +440,7 @@
 | [0338-counting-bits](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0800-letter-case-permutation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -584,6 +586,7 @@
 | [0295-find-median-from-data-stream](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
@@ -630,6 +633,7 @@
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0837-most-common-word) |
