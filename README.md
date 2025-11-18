@@ -280,6 +280,7 @@
 | [2058-concatenation-of-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -707,6 +708,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2428-equal-row-and-column-pairs) |
@@ -852,6 +854,7 @@
 | [0649-dota2-senate](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2195-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
