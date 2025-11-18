@@ -220,6 +220,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0494-target-sum) |
@@ -631,6 +632,7 @@
 | [0347-top-k-frequent-elements](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0525-contiguous-array) |
