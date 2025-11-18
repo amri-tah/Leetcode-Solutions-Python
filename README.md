@@ -256,6 +256,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
@@ -591,6 +592,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1397-search-suggestions-system) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -647,6 +649,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1813-maximum-erasure-value) |
@@ -872,4 +875,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
