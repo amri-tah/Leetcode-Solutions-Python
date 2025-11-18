@@ -192,6 +192,7 @@
 | [0078-subsets](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0119-pascals-triangle-ii) |
@@ -786,6 +787,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0225-implement-stack-using-queues) |
@@ -805,6 +807,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
