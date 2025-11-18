@@ -259,6 +259,7 @@
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1552-build-an-array-with-stack-operations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -695,6 +696,7 @@
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0906-walking-robot-simulation) |
 | [1449-print-words-vertically](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1449-print-words-vertically) |
+| [1552-build-an-array-with-stack-operations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/2048-build-array-from-permutation) |
@@ -791,6 +793,7 @@
 | [0735-asteroid-collision](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/0937-online-stock-span) |
+| [1552-build-an-array-with-stack-operations](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/amri-tah/Leetcode-Solutions-Python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
